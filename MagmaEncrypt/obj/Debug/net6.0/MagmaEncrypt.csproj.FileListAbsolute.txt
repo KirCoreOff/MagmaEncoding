@@ -1,0 +1,30 @@
+C:\Users\KirCoreOff\source\repos\4 курс\Криптография\матричное шифрование\MagmaEncrypt\MagmaEncrypt\obj\Debug\net6.0\MagmaEncrypt.csproj.AssemblyReference.cache
+C:\Users\KirCoreOff\source\repos\4 курс\Криптография\матричное шифрование\MagmaEncrypt\MagmaEncrypt\obj\Debug\net6.0\MagmaEncrypt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KirCoreOff\source\repos\4 курс\Криптография\матричное шифрование\MagmaEncrypt\MagmaEncrypt\obj\Debug\net6.0\MagmaEncrypt.AssemblyInfoInputs.cache
+C:\Users\KirCoreOff\source\repos\4 курс\Криптография\матричное шифрование\MagmaEncrypt\MagmaEncrypt\obj\Debug\net6.0\MagmaEncrypt.AssemblyInfo.cs
+C:\Users\KirCoreOff\source\repos\4 курс\Криптография\матричное шифрование\MagmaEncrypt\MagmaEncrypt\obj\Debug\net6.0\MagmaEncrypt.csproj.CoreCompileInputs.cache
+C:\Users\KirCoreOff\source\repos\4 курс\Криптография\матричное шифрование\MagmaEncrypt\MagmaEncrypt\bin\Debug\net6.0\MagmaEncrypt.exe
+C:\Users\KirCoreOff\source\repos\4 курс\Криптография\матричное шифрование\MagmaEncrypt\MagmaEncrypt\bin\Debug\net6.0\MagmaEncrypt.deps.json
+C:\Users\KirCoreOff\source\repos\4 курс\Криптография\матричное шифрование\MagmaEncrypt\MagmaEncrypt\bin\Debug\net6.0\MagmaEncrypt.runtimeconfig.json
+C:\Users\KirCoreOff\source\repos\4 курс\Криптография\матричное шифрование\MagmaEncrypt\MagmaEncrypt\bin\Debug\net6.0\MagmaEncrypt.dll
+C:\Users\KirCoreOff\source\repos\4 курс\Криптография\матричное шифрование\MagmaEncrypt\MagmaEncrypt\bin\Debug\net6.0\ref\MagmaEncrypt.dll
+C:\Users\KirCoreOff\source\repos\4 курс\Криптография\матричное шифрование\MagmaEncrypt\MagmaEncrypt\bin\Debug\net6.0\MagmaEncrypt.pdb
+C:\Users\KirCoreOff\source\repos\4 курс\Криптография\матричное шифрование\MagmaEncrypt\MagmaEncrypt\obj\Debug\net6.0\MagmaEncrypt.dll
+C:\Users\KirCoreOff\source\repos\4 курс\Криптография\матричное шифрование\MagmaEncrypt\MagmaEncrypt\obj\Debug\net6.0\ref\MagmaEncrypt.dll
+C:\Users\KirCoreOff\source\repos\4 курс\Криптография\матричное шифрование\MagmaEncrypt\MagmaEncrypt\obj\Debug\net6.0\MagmaEncrypt.pdb
+C:\Users\KirCoreOff\source\repos\4 курс\Криптография\матричное шифрование\MagmaEncrypt\MagmaEncrypt\obj\Debug\net6.0\MagmaEncrypt.genruntimeconfig.cache
+C:\Users\user\Desktop\учеба\4 курс\криптография\MagmaEncrypt\MagmaEncrypt\bin\Debug\net6.0\MagmaEncrypt.exe
+C:\Users\user\Desktop\учеба\4 курс\криптография\MagmaEncrypt\MagmaEncrypt\bin\Debug\net6.0\MagmaEncrypt.deps.json
+C:\Users\user\Desktop\учеба\4 курс\криптография\MagmaEncrypt\MagmaEncrypt\bin\Debug\net6.0\MagmaEncrypt.runtimeconfig.json
+C:\Users\user\Desktop\учеба\4 курс\криптография\MagmaEncrypt\MagmaEncrypt\bin\Debug\net6.0\MagmaEncrypt.dll
+C:\Users\user\Desktop\учеба\4 курс\криптография\MagmaEncrypt\MagmaEncrypt\bin\Debug\net6.0\MagmaEncrypt.pdb
+C:\Users\user\Desktop\учеба\4 курс\криптография\MagmaEncrypt\MagmaEncrypt\obj\Debug\net6.0\MagmaEncrypt.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\учеба\4 курс\криптография\MagmaEncrypt\MagmaEncrypt\obj\Debug\net6.0\MagmaEncrypt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\учеба\4 курс\криптография\MagmaEncrypt\MagmaEncrypt\obj\Debug\net6.0\MagmaEncrypt.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\учеба\4 курс\криптография\MagmaEncrypt\MagmaEncrypt\obj\Debug\net6.0\MagmaEncrypt.AssemblyInfo.cs
+C:\Users\user\Desktop\учеба\4 курс\криптография\MagmaEncrypt\MagmaEncrypt\obj\Debug\net6.0\MagmaEncrypt.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\учеба\4 курс\криптография\MagmaEncrypt\MagmaEncrypt\obj\Debug\net6.0\MagmaEncrypt.dll
+C:\Users\user\Desktop\учеба\4 курс\криптография\MagmaEncrypt\MagmaEncrypt\obj\Debug\net6.0\refint\MagmaEncrypt.dll
+C:\Users\user\Desktop\учеба\4 курс\криптография\MagmaEncrypt\MagmaEncrypt\obj\Debug\net6.0\MagmaEncrypt.pdb
+C:\Users\user\Desktop\учеба\4 курс\криптография\MagmaEncrypt\MagmaEncrypt\obj\Debug\net6.0\MagmaEncrypt.genruntimeconfig.cache
+C:\Users\user\Desktop\учеба\4 курс\криптография\MagmaEncrypt\MagmaEncrypt\obj\Debug\net6.0\ref\MagmaEncrypt.dll

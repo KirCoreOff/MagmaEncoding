@@ -1,0 +1,15 @@
+C:\Users\KirCoreOff\source\repos\4 курс\Криптография\матричное шифрование\MagmaEncrypt\тест\bin\Debug\net6.0\тест.exe
+C:\Users\KirCoreOff\source\repos\4 курс\Криптография\матричное шифрование\MagmaEncrypt\тест\bin\Debug\net6.0\тест.deps.json
+C:\Users\KirCoreOff\source\repos\4 курс\Криптография\матричное шифрование\MagmaEncrypt\тест\bin\Debug\net6.0\тест.runtimeconfig.json
+C:\Users\KirCoreOff\source\repos\4 курс\Криптография\матричное шифрование\MagmaEncrypt\тест\bin\Debug\net6.0\тест.dll
+C:\Users\KirCoreOff\source\repos\4 курс\Криптография\матричное шифрование\MagmaEncrypt\тест\bin\Debug\net6.0\ref\тест.dll
+C:\Users\KirCoreOff\source\repos\4 курс\Криптография\матричное шифрование\MagmaEncrypt\тест\bin\Debug\net6.0\тест.pdb
+C:\Users\KirCoreOff\source\repos\4 курс\Криптография\матричное шифрование\MagmaEncrypt\тест\obj\Debug\net6.0\тест.csproj.AssemblyReference.cache
+C:\Users\KirCoreOff\source\repos\4 курс\Криптография\матричное шифрование\MagmaEncrypt\тест\obj\Debug\net6.0\тест.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KirCoreOff\source\repos\4 курс\Криптография\матричное шифрование\MagmaEncrypt\тест\obj\Debug\net6.0\тест.AssemblyInfoInputs.cache
+C:\Users\KirCoreOff\source\repos\4 курс\Криптография\матричное шифрование\MagmaEncrypt\тест\obj\Debug\net6.0\тест.AssemblyInfo.cs
+C:\Users\KirCoreOff\source\repos\4 курс\Криптография\матричное шифрование\MagmaEncrypt\тест\obj\Debug\net6.0\тест.csproj.CoreCompileInputs.cache
+C:\Users\KirCoreOff\source\repos\4 курс\Криптография\матричное шифрование\MagmaEncrypt\тест\obj\Debug\net6.0\тест.dll
+C:\Users\KirCoreOff\source\repos\4 курс\Криптография\матричное шифрование\MagmaEncrypt\тест\obj\Debug\net6.0\ref\тест.dll
+C:\Users\KirCoreOff\source\repos\4 курс\Криптография\матричное шифрование\MagmaEncrypt\тест\obj\Debug\net6.0\тест.pdb
+C:\Users\KirCoreOff\source\repos\4 курс\Криптография\матричное шифрование\MagmaEncrypt\тест\obj\Debug\net6.0\тест.genruntimeconfig.cache

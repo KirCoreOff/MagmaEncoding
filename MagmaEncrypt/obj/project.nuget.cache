@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "kvGGKbylTrZbGC1eX9AU5xcJNXqOp9GOg/U+IoImI9ojgAZcJn0UAPRzvyhJf+E3YNOmlfGzihi+dCyfC4s2vQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\Desktop\\учеба\\4 курс\\криптография\\MagmaEncrypt\\MagmaEncrypt\\MagmaEncrypt.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.text.encoding.codepages\\6.0.0\\system.text.encoding.codepages.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
